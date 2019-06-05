@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\HangfireOnConsole\\HangfireOnConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\HangfireOnConsole\\HangfireOnConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\HangfireOnConsole\\HangfireOnConsole.csproj",
+        "projectName": "HangfireOnConsole",
+        "projectPath": "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\HangfireOnConsole\\HangfireOnConsole.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\HangfireOnConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://donatelo.pkgs.visualstudio.com/_packaging/IntegraPackages/nuget/v3/index.json": {},
+          "https://marcelgrilo.pkgs.visualstudio.com/_packaging/marcelgrilo/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\Jobs\\Jobs.csproj": {
+                "projectPath": "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\Jobs\\Jobs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "hangfire.core": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
+            "hangfire.memorystorage": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\Jobs\\Jobs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\Jobs\\Jobs.csproj",
+        "projectName": "Jobs",
+        "projectPath": "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\Jobs\\Jobs.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\source\\repos\\marcel\\HangfireOnConsole\\src\\Jobs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://donatelo.pkgs.visualstudio.com/_packaging/IntegraPackages/nuget/v3/index.json": {},
+          "https://marcelgrilo.pkgs.visualstudio.com/_packaging/marcelgrilo/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "hangfire.core": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
+            "hangfire.maximumconcurrentexecutions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

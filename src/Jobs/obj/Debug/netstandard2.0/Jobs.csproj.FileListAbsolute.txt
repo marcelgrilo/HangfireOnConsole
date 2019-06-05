@@ -1,0 +1,9 @@
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\Jobs\obj\Debug\netstandard2.0\Jobs.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\Jobs\obj\Debug\netstandard2.0\Jobs.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\Jobs\obj\Debug\netstandard2.0\Jobs.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\Jobs\obj\Debug\netstandard2.0\Jobs.AssemblyInfo.cs
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\Jobs\bin\Debug\netstandard2.0\Jobs.deps.json
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\Jobs\bin\Debug\netstandard2.0\Jobs.dll
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\Jobs\bin\Debug\netstandard2.0\Jobs.pdb
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\Jobs\obj\Debug\netstandard2.0\Jobs.dll
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\Jobs\obj\Debug\netstandard2.0\Jobs.pdb

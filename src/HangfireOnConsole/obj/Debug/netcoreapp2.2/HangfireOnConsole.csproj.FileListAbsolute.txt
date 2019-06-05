@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\bin\Debug\netcoreapp2.2\HangfireOnConsole.deps.json
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\bin\Debug\netcoreapp2.2\HangfireOnConsole.runtimeconfig.json
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\bin\Debug\netcoreapp2.2\HangfireOnConsole.runtimeconfig.dev.json
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\bin\Debug\netcoreapp2.2\HangfireOnConsole.dll
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\bin\Debug\netcoreapp2.2\HangfireOnConsole.pdb
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\obj\Debug\netcoreapp2.2\HangfireOnConsole.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\obj\Debug\netcoreapp2.2\HangfireOnConsole.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\obj\Debug\netcoreapp2.2\HangfireOnConsole.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\obj\Debug\netcoreapp2.2\HangfireOnConsole.AssemblyInfo.cs
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\obj\Debug\netcoreapp2.2\HangfireOnConsole.dll
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\obj\Debug\netcoreapp2.2\HangfireOnConsole.pdb
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\bin\Debug\netcoreapp2.2\Jobs.dll
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\bin\Debug\netcoreapp2.2\Jobs.pdb
+C:\Users\marce\source\repos\marcel\HangfireOnConsole\src\HangfireOnConsole\obj\Debug\netcoreapp2.2\HangfireOnConsole.csproj.CopyComplete

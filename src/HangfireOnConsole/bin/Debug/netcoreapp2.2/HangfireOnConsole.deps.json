@@ -1,0 +1,125 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "6c8daeb31d734419960d3aa1a5687dc49e812c5a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "HangfireOnConsole/1.0.0": {
+        "dependencies": {
+          "Jobs": "1.0.0",
+          "Hangfire.Core": "1.7.3",
+          "Hangfire.MemoryStorage": "1.6.0"
+        },
+        "runtime": {
+          "HangfireOnConsole.dll": {}
+        }
+      },
+      "Hangfire.Core/1.7.3": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Hangfire.Core.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/es/Hangfire.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard2.0/nl/Hangfire.Core.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/netstandard2.0/zh-TW/Hangfire.Core.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "lib/netstandard2.0/zh/Hangfire.Core.resources.dll": {
+            "locale": "zh"
+          }
+        }
+      },
+      "Hangfire.MaximumConcurrentExecutions/1.1.0": {
+        "dependencies": {
+          "Hangfire.Core": "1.7.3"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Hangfire.MaximumConcurrentExecutions.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Hangfire.MemoryStorage/1.6.0": {
+        "dependencies": {
+          "Hangfire.Core": "1.7.3"
+        },
+        "runtime": {
+          "lib/netstandard1.3/Hangfire.MemoryStorage.dll": {
+            "assemblyVersion": "1.6.0.0",
+            "fileVersion": "1.6.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.21818"
+          }
+        }
+      },
+      "Jobs/1.0.0": {
+        "dependencies": {
+          "Hangfire.Core": "1.7.3",
+          "Hangfire.MaximumConcurrentExecutions": "1.1.0"
+        },
+        "runtime": {
+          "Jobs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HangfireOnConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hangfire.Core/1.7.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h/ZWZaeI4GJcyoGZGwladTSQ2zt3Riv+I6Vby7BkGAoV/pF1mu4RvQh7vZjpge1xsBXVOeGBOVjjJUfiC+t6VA==",
+      "path": "hangfire.core/1.7.3",
+      "hashPath": "hangfire.core.1.7.3.nupkg.sha512"
+    },
+    "Hangfire.MaximumConcurrentExecutions/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zfVc2r2JfvZH+RjU6nwQl9wB+Wt+c54pQUU0yg8dZouDGFtLr8qjz50GGA9JpdX3yykXG39myHdHJWeFy0XgCA==",
+      "path": "hangfire.maximumconcurrentexecutions/1.1.0",
+      "hashPath": "hangfire.maximumconcurrentexecutions.1.1.0.nupkg.sha512"
+    },
+    "Hangfire.MemoryStorage/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nI2bE2xSUwzaCDHDX5ne49x10nqO2uLTwmaW2bv6nd4Zf24G2VcB8vukg2+XgV6C364T2K0s8IDx9g9iU0sbMA==",
+      "path": "hangfire.memorystorage/1.6.0",
+      "hashPath": "hangfire.memorystorage.1.6.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+      "path": "newtonsoft.json/11.0.1",
+      "hashPath": "newtonsoft.json.11.0.1.nupkg.sha512"
+    },
+    "Jobs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
